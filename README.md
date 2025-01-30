@@ -64,15 +64,11 @@ This analysis helps **Airbnb hosts optimize pricing strategies** and **travelers
 ## 📜 License
 This project is open-source and free to use under the **MIT License**.
 
-## 📬 **Contact Information**
-- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com)
-- **GitHub**: [arundeepp9393](https://github.com/arundeepp9393)
-- **LinkedIn**: [Arun Deep](https://www.linkedin.com/in/arun-deep-04964b258/)
+## 🔗 Connect with me :
+- **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/) 🌐
+- **GitHub**: [github.com/ArunCooksData](https://github.com/ArunCooksData) 👨‍💻
+- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 📧
 
-## 🙌 Let's Connect!
-🚀 **GitHub**: [arundeepp9393](https://github.com/arundeepp9393)
-
----
 
 ✨ *If you find this project helpful, don't forget to ⭐ the repo!*
 
